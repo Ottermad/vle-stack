@@ -19,3 +19,6 @@
 [submodule "vle-k8s-scripts"]
 	path = vle-k8s-scripts
 	url = git@github.com:Ottermad/vle-k8s-scripts.git
+[submodule "vle-internals"]
+	path = vle-internals
+	url = git@github.com:Ottermad/vle-internals.git
