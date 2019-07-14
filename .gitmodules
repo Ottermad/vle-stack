@@ -22,3 +22,6 @@
 [submodule "vle-internals"]
 	path = vle-internals
 	url = git@github.com:Ottermad/vle-internals.git
+[submodule "VLEFrontend"]
+	path = VLEFrontend
+	url = git@github.com:Ottermad/VLEFrontend.git
