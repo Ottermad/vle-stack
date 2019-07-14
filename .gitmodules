@@ -1,0 +1,21 @@
+[submodule "services_extension"]
+	path = services_extension
+	url = git@github.com:Ottermad/services_extension.git
+[submodule "vle-services"]
+	path = vle-services
+	url = git@github.com:Ottermad/vle-services.git
+[submodule "vle-user"]
+	path = vle-user
+	url = git@github.com:Ottermad/vle-user.git
+[submodule "vle-homework"]
+	path = vle-homework
+	url = git@github.com:Ottermad/vle-homework.git
+[submodule "vle-lesson"]
+	path = vle-lesson
+	url = git@github.com:Ottermad/vle-lesson.git
+[submodule "vle-restapi"]
+	path = vle-restapi
+	url = git@github.com:Ottermad/vle-restapi.git
+[submodule "vle-k8s-scripts"]
+	path = vle-k8s-scripts
+	url = git@github.com:Ottermad/vle-k8s-scripts.git
